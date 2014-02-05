@@ -1,5 +1,5 @@
 ---
-  tags: oop, attr_accessors
+  tags: oop, attr_accessors, micro
   languages: ruby
 ---
 
