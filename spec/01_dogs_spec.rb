@@ -19,7 +19,7 @@ describe "Dog" do
     # STDOUT is a constant that ruby defines for you
     # that represents 'output' so that you can test
     # against puts and Input/Output (IO) methods
-    expect(STDOUT).to receive(:puts).with("fidowoof!")
+    expect(STDOUT).to receive(:puts).with("woof!")
     fido.bark
   end
 end
