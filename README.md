@@ -28,4 +28,4 @@ Run the test suite using the `rspec` command.
 
 Write a "Dog" class in dog.rb that makes the tests pass!
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43) - [Chapter 13: Creating New Classes, Changing Existing Ones](http://books.flatironschool.com/books/43), page 113
+* [Learn to Program](http://books.flatironschool.com/books/43?page=113) - [Chapter 13: Creating New Classes, Changing Existing Ones](http://books.flatironschool.com/books/43?page=113), page 113
