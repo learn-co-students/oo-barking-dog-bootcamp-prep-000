@@ -1,6 +1,7 @@
 ---
   tags: oop, attr_accessors, micro
   languages: ruby
+  resources: 1
 ---
 
 # Barking Dog
@@ -26,3 +27,5 @@ fido.bark
 Run the test suite using the `rspec` command.
 
 Write a "Dog" class in dog.rb that makes the tests pass!
+## Resources
+* [Learn to Program](http://books.flatironschool.com/books/43?page=113) - [Chapter 13: Creating New Classes, Changing Existing Ones](http://books.flatironschool.com/books/43?page=113), page 113
