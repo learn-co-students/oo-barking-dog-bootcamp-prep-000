@@ -1,10 +1,12 @@
 ---
-  tags: oop, attr_accessors, micro
-  languages: ruby
-  resources: 1
+tags: oop, attr_accessors, micro
+languages: ruby
+resources: 1
 ---
 
 # Barking Dog
+
+![dog cartoon](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/oo-labs/dog.jpg)
 
 ## Description
 
