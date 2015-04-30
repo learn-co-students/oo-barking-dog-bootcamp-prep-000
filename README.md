@@ -31,5 +31,3 @@ Run the test suite to get started. You'll be writing all your code in the `lib/d
 Write a "Dog" class in dog.rb that makes the tests pass!
 
 
-## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=113) - [Chapter 13: Creating New Classes, Changing Existing Ones](http://books.flatironschool.com/books/43?page=113), page 113
