@@ -1,8 +1,4 @@
----
-tags: oop, attr_accessors, micro
-languages: ruby
-resources: 1
----
+
 
 # Barking Dog
 
