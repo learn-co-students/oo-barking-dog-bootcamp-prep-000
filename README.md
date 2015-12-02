@@ -34,3 +34,5 @@ Run the test suite to get started. You'll be writing all your code in the `lib/d
 4. Write a method, `.bark`, that `puts` "woof!" when called on an instance of Dog. 
 
 
+
+<a href='https://learn.co/lessons/oo-barking-dog' data-visibility='hidden'>View this lesson on Learn.co</a>
