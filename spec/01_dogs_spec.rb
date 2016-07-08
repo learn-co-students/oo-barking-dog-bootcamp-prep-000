@@ -12,8 +12,6 @@ describe "Dog" do
   end
 
    it "is able to bark" do
-    fido.name = "Fido"
-
     # STDOUT is a constant that ruby defines for you
     # that represents 'output' so that you can test
     # against puts and Input/Output (IO) methods
