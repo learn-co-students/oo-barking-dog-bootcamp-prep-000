@@ -1,4 +1,3 @@
-# Barking Dog
 
 ## Objectives
 
