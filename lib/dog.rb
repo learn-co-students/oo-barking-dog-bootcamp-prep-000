@@ -1,16 +1,15 @@
 class Dog # Create the Object
   
-  # Callback function to bring the Dog Object to life.
-  def initialize(name, bark) 
-    @name = name 
-    @bark = bark
+  def bark # Instance method of Dog Class.
+    puts "woof!"
   end
   
-  def bark
-    puts "Woof!"
+  def name=(the_dogs_name)
+    puts "#{the_dogs_name}"
   end
   
 end
 
-fido = Dog.new #Create the Fido the Dog
-fido.bark #Asking Fido to bark
+fido = Dog.new
+fido.bark
+fido.name = "Fido"
