@@ -4,8 +4,12 @@ class Dog # Create the Object
     puts "woof!"
   end
   
-  def name=(the_dogs_name)
-    puts "#{the_dogs_name}"
+  def name=(dogs_name)
+    @name = dogs_name
+  end
+  
+  def name
+    @name 
   end
   
 end
