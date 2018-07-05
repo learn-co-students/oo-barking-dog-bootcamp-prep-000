@@ -1,9 +1,13 @@
 class Dog # Create the Object
   
   # Callback function to bring the Dog Object to life.
-  def initialize(name, bark = "Woof!") 
+  def initialize(name, bark) 
     @name = name 
     @bark = bark
+  end
+  
+  def bark
+    puts "Woof!"
   end
   
 end
