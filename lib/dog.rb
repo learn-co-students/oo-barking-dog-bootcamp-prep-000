@@ -4,16 +4,16 @@ class Dog # Create the Object
     puts "woof!"
   end
   
-  def name=(dogs_name)
+  def name=(dogs_name) # Setter method
     @name = dogs_name
   end
   
-  def name
+  def name # Getter method
     @name 
   end
   
 end
 
 fido = Dog.new
-fido.bark
-fido.name = "Fido"
+fido.bark # Object calls the bark method
+fido.name = "Fido" # Using the Object to call the name method, sets name to Fido
