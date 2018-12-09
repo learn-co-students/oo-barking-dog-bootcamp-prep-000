@@ -6,7 +6,10 @@ describe "Dog" do
     expect(fido).to be_a(Dog)
   end
 
-
+  it 'has a name' do
+    fido.name = "Fido"
+    expect(fido.name).to eq("Fido")
+  end
 
    it "is able to bark" do
     # STDOUT is a constant that ruby defines for you
