@@ -14,7 +14,8 @@ a name and be able to bark. In other words, I should be able to do:
 
 ```ruby
 fido = Dog.new
-fido.name = "Fido"
+
+fido.name = "Fido" 
 
 fido.name
 # => "Fido"
